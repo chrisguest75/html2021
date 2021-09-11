@@ -1,0 +1,27 @@
+body{
+    background-color:black ;
+}
+h1{
+    color:white;
+}
+.even{
+    background-color:crimson; color:mintcream;
+}
+.odd{
+    background-color:blueviolet; color:cyan;
+}
+
+p{
+    color:darkorchid;
+    font-weight:Bold;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: italic;
+
+
+
+
+
+
+
+}
