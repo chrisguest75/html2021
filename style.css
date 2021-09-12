@@ -3,6 +3,8 @@ body{
 }
 h1{
     color:white;
+    font-weight: bold;
+    font-style: italic;
 }
 .even{
     background-color:crimson; color:mintcream;
@@ -17,11 +19,18 @@ p{
     font-family: sans-serif;
     font-size: 16px;
     font-style: italic;
+}
 
 
+.fa-youtube{
+    color: red;
+    
+}
 
-
-
-
-
+.fa-twitter{
+    color: aqua;
+}
+h2{
+    color:white;
+    font-style: italic;
 }
